@@ -1,0 +1,5 @@
+C:\Users\flockie\Desktop\PITPM-main\3 laba pitpm\obj\Debug\net6.0\3 laba pitpm.csproj.AssemblyReference.cache
+C:\Users\flockie\Desktop\PITPM-main\3 laba pitpm\obj\Debug\net6.0\3 laba pitpm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flockie\Desktop\PITPM-main\3 laba pitpm\obj\Debug\net6.0\3 laba pitpm.AssemblyInfoInputs.cache
+C:\Users\flockie\Desktop\PITPM-main\3 laba pitpm\obj\Debug\net6.0\3 laba pitpm.AssemblyInfo.cs
+C:\Users\flockie\Desktop\PITPM-main\3 laba pitpm\obj\Debug\net6.0\3 laba pitpm.csproj.CoreCompileInputs.cache
